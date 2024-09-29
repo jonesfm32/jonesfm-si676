@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Homepage test
+
+Link to first post?
