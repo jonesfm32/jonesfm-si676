@@ -4,6 +4,6 @@
 
 layout: default
 ---
-Homepage test
+# This is my beautiful homepage.
 
-Link to [first post](./2024/09/29/FIRST-POST.html)
+Here's the link to my [first post](./2024/09/29/FIRST-POST.html)
