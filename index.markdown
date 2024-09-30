@@ -6,4 +6,4 @@ layout: default
 ---
 Homepage test
 
-Link to first post?
+Link to [first post](./2024/09/29/Are-You-There-God-Its-Me-Fiona.html)
